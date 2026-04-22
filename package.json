@@ -9,6 +9,7 @@
     "start": "npx serve dist -s"
   },
   "dependencies": {
+    "@builder.io/react": "^9.3.0",
     "@google/genai": "^1.47.0",
     "@google/generative-ai": "^0.24.0",
     "@radix-ui/react-accordion": "1.2.3",
